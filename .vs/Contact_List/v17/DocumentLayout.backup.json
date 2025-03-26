@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\VienProject\\Contact_List\\",
+  "WorkspaceRootPath": "C:\\vinhproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|c:\\vienproject\\contact_list\\contact_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|solutionrelative:contact_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|c:\\vinhproject\\contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|solutionrelative:contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|c:\\vinhproject\\contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|solutionrelative:contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|c:\\vinhproject\\contact_list\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|solutionrelative:contact_list\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|c:\\vinhproject\\contact_list\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|solutionrelative:contact_list\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,11 +43,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\VienProject\\Contact_List\\Contact_List\\Form1.cs",
-              "RelativeDocumentMoniker": "Contact_List\\Form1.cs",
-              "ToolTip": "C:\\VienProject\\Contact_List\\Contact_List\\Form1.cs [Design]",
-              "RelativeToolTip": "Contact_List\\Form1.cs [Design]",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\vinhproject\\Contact_List\\MainForm.cs",
+              "RelativeDocumentMoniker": "Contact_List\\MainForm.cs",
+              "ToolTip": "C:\\vinhproject\\Contact_List\\MainForm.cs*",
+              "RelativeToolTip": "Contact_List\\MainForm.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:05:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactForm.cs",
+              "DocumentMoniker": "C:\\vinhproject\\Contact_List\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "Contact_List\\AddContactForm.cs",
+              "ToolTip": "C:\\vinhproject\\Contact_List\\AddContactForm.cs*",
+              "RelativeToolTip": "Contact_List\\AddContactForm.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:05:02.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\vinhproject\\Contact_List\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "Contact_List\\AddContactForm.cs",
+              "ToolTip": "C:\\vinhproject\\Contact_List\\AddContactForm.cs [Design]*",
+              "RelativeToolTip": "Contact_List\\AddContactForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:04:11.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\vinhproject\\Contact_List\\MainForm.cs",
+              "RelativeDocumentMoniker": "Contact_List\\MainForm.cs",
+              "ToolTip": "C:\\vinhproject\\Contact_List\\MainForm.cs [Design]*",
+              "RelativeToolTip": "Contact_List\\MainForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:46:13.012Z",
               "EditorCaption": " [Design]"
