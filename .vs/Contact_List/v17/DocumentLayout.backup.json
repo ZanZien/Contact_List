@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\vinhproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|C:\\vinhproject\\contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|c:\\vinhproject\\contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8D814BC-E754-40EE-B341-04FB75469996}|Contact_List\\Contact_List.csproj|solutionrelative:contact_list\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\vinhproject\\Contact_List\\MainForm.cs [Design]",
               "RelativeToolTip": "Contact_List\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:46:13.012Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-26T08:46:13.012Z"
             }
           ]
         }
