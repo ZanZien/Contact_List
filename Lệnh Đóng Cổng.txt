@@ -1,0 +1,2 @@
+netstat -ano | findstr :8080
+tasklist | findstr 7460
